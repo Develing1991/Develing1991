@@ -27,6 +27,12 @@
   <img src="https://img.shields.io/badge/firestore-00A4FD?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
+### CI/CD
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</div>
+
 ### Virtualization Management
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
