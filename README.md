@@ -1,4 +1,6 @@
 ## 🛠 Skill Tree
+- Keep up the leveling 🥾 && Invest in my skill points 💪
+- Like Develing1991 🕶
 
 ### FrontEnd
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
