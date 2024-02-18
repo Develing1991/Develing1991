@@ -35,7 +35,7 @@
 ### Cloud
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Amazon EC2-ff9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon Route 53-8c4fff?style=for-the-badge&logo=amazonroute53&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Amazon Route53-8c4fff?style=for-the-badge&logo=amazonroute53&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon Cloud Front-512bd4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amazon Certification Manager-dd344c?style=for-the-badge"/>
