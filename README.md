@@ -18,12 +18,17 @@
   <img src="https://img.shields.io/badge/MSA-5E5E5E?style=for-the-badge"/>
 </div>
 
+### Backend as a Service
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/firebase-00A4FD?style=for-the-badge&logo=firebase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/supabase-3fcf8e?style=for-the-badge&logo=supabase&logoColor=white"/>
+</div>
+
 ### Database
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
   <img src="https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"/>
-  <img src="https://img.shields.io/badge/firestore-00A4FD?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
 ### Build Tools
@@ -40,9 +45,10 @@
   <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </div>
 
-### Virtualization Management
+### Virtual Machine / Virtualization Management
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker Compose-004B8D?style=for-the-badge&logo=dockercompose&logoColor=white"/>
 </div>
 
 ### Cloud Service
