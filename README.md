@@ -30,7 +30,7 @@
 ### CI/CD
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ansible-ee0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ansible-000000?style=for-the-badge&logo=ansible&logoColor=white"/>
 </div>
 
 ### Virtualization Management
