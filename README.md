@@ -66,7 +66,7 @@
 ### Version Control
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/svn-4E9BCD?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/svn-4E9BCD?style=for-the-badge&logo=subversion&logoColor=white"/>
 </div>
 
 ### Operating System
@@ -80,7 +80,7 @@
 ### IDE Tools
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
-  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
   <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </div>
 
