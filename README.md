@@ -1,16 +1,72 @@
-### Hi there 👋
+## Skills
 
-<!--
-**Develing1991/Develing1991** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### FrontEnd
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=Html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=Css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/tailwindcss-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=white"/>
+</div>
 
-Here are some ideas to get you started:
+### BackEnd
+<div style="display:flex; flex-wrap:wrap; gap:10px;">
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/MSA-5E5E5E?style=for-the-badge"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Database
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"/>
+</div>
+
+### Virtualization Management
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
+</div>
+
+### Cloud
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Amazon EC2-ff9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon Route 53-8c4fff?style=for-the-badge&logo=amazonroute53&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> 
+  <img src="https://img.shields.io/badge/Amazon Cloud Front-512bd4?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Amazon Certification Manager-dd344c?style=for-the-badge"/>
+</div>
+
+### OS
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-fcc624?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+</div>
+
+### IDE
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vs code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+</div>
+
+### Others
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/Apache Kafka-231f20?style=for-the-badge&logo=apachekafka&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white"/>
+  <img src="https://img.shields.io/badge/json web tokens-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</div>
+
+<br/><br/><br/><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Develing1991&layout=donut-vertical)](https://github.com/Develing1991/github-readme-stats)
+
+<!-- [![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Develing1991)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Develing1991&show_icons=true&theme=highcontrast&count_private=true) -->
+
+
