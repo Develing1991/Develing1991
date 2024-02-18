@@ -15,7 +15,6 @@
 ### BackEnd
 <div style="display:flex; flex-wrap:wrap; gap:10px;">
   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/> 
   <img src="https://img.shields.io/badge/MSA-5E5E5E?style=for-the-badge"/>
 </div>
 
@@ -40,11 +39,21 @@
 
 ### Cloud
 <div style="display:flex; flex-wrap:wrap;">
+  
+  <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <!-- 
   <img src="https://img.shields.io/badge/Amazon EC2-ff9900?style=for-the-badge&logo=amazonec2&logoColor=white"/>
   <img src="https://img.shields.io/badge/Amazon Route53-8c4fff?style=for-the-badge&logo=amazonroute53&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon Cloud Front-512bd4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amazon Certification Manager-dd344c?style=for-the-badge"/>
+  -->
+</div>
+
+### Version Control
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/svn-4E9BCD?style=for-the-badge"/>
 </div>
 
 ### OS
@@ -55,7 +64,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-### IDE
+### IDEs
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseidea&logoColor=white"/>
