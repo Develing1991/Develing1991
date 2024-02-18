@@ -37,7 +37,7 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
 
-### Cloud
+### Cloud Service
 <div style="display:flex; flex-wrap:wrap;">
   <!-- 
   <img src="https://img.shields.io/badge/Amazon AWS-232f3e?style=for-the-badge&logo=amazonaws&logoColor=white"/>
