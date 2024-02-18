@@ -26,6 +26,14 @@
   <img src="https://img.shields.io/badge/firestore-00A4FD?style=for-the-badge&logo=firebase&logoColor=white"/>
 </div>
 
+### Build Tools
+<div style="display:flex; flex-wrap:wrap;">
+  <img src="https://img.shields.io/badge/apache maven-c71a36?style=for-the-badge&logo=apachemaven&logoColor=white"/>
+  <img src="https://img.shields.io/badge/gradle-02303a?style=for-the-badge&logo=gradle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/yarn-2c8ebb?style=for-the-badge&logo=yarn&logoColor=white"/>
+</div>
+
 ### CI/CD
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/jenkins-d24939?style=for-the-badge&logo=jenkins&logoColor=white"/>
@@ -47,7 +55,6 @@
   <img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"/> 
   <img src="https://img.shields.io/badge/Amazon Cloud Front-512bd4?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Amazon Certification Manager-dd344c?style=for-the-badge"/>
-  
 </div>
 
 ### Version Control
@@ -56,7 +63,7 @@
   <img src="https://img.shields.io/badge/svn-4E9BCD?style=for-the-badge"/>
 </div>
 
-### OS
+### Operating System
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/Windows-0078d4?style=for-the-badge&logo=windows&logoColor=white"/>
   <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=macos&logoColor=white"/>
@@ -64,7 +71,7 @@
   <img src="https://img.shields.io/badge/Ubuntu-e95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
 </div>
 
-### IDEs
+### IDE Tools
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
   <img src="https://img.shields.io/badge/eclipse-2C2255?style=for-the-badge&logo=eclipseidea&logoColor=white"/>
