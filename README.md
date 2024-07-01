@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/supabase-3fcf8e?style=for-the-badge&logo=supabase&logoColor=white"/>
 </div>
 
-### Database
+### Database && SQL
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
