@@ -28,7 +28,8 @@
 <div style="display:flex; flex-wrap:wrap;">
   <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/Oracle-f80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"/>
+<!--   <img src="https://img.shields.io/badge/Redis-dc382d?style=for-the-badge&logo=redis&logoColor=white"/> -->
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </div>
 
 ### Build Tools
